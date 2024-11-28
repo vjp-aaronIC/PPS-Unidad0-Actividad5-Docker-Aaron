@@ -4,3 +4,5 @@
 [Introduccion](introduccion.md)
 
 [Imágenes](imagenes.md)
+
+[Almacenamiento](almacenamiento.md)
