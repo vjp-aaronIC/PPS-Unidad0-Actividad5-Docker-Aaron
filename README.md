@@ -6,3 +6,5 @@
 [Imágenes](imagenes.md)
 
 [Almacenamiento](almacenamiento.md)
+
+[Redes](redes.md)
